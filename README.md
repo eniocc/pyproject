@@ -1,7 +1,5 @@
-* pyproject
-
-Base project with:
-
+# Base structure to python projects.
+### The structure contains:
 * [x] tox
 * [x] flake8
 * [x] mypy
